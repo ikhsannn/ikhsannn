@@ -11,5 +11,5 @@ Work Experience :
 
 Portofolio (Publish & Private) :
 
-A. Web Development
-    1. Web Sistem Informasi Accounting (Codeigniter 3)
+#Web Development
+     1. Web Sistem Informasi Accounting (Codeigniter 3)
