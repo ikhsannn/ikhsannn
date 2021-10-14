@@ -3,7 +3,7 @@
 Ini adalah halaman khusus mengenai biodata diri saya
 
      Nama : Ikhsan Abdillah 
-     Skill : HTML, CSS, JS, PHP, Codeigniter, Laravel, Django
+     Skill : HTML, CSS, JS, PHP, Codeigniter, Laravel, Django, Java
 
 Work Experience :
 1. PT Podobeli Djital Indonesia as Backend Developer
