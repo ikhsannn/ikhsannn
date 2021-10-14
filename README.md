@@ -13,4 +13,4 @@ Portofolio (Publish & Private) :
 
 A. Web Development :
 
-     1. Web Sistem Informasi Accounting (Codeigniter 3)
+1. Web Sistem Informasi Accounting (Codeigniter 3)
