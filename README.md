@@ -1,4 +1,4 @@
-👋 Hi, Selamat Datang !!! 👋
+Hi, Selamat Datang !!! 👋👋
 
 Ini adalah halaman khusus mengenai biodata diri saya
 
