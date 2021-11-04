@@ -1,4 +1,4 @@
-Halo Folks !!! 👋👋
+Hello Folks !!! 👋👋
 
 This is a special page about my bio
 
