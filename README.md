@@ -13,13 +13,13 @@ Work Experience :
 Portofolio (Publish & Private) :
 
 Public
-1. Pembayaran SPP SMK Laravel 8
-2. Landing Page Toko Bantal
+1. Payment SPP SMK 
+2. Landing Page Pillow Shop
 3. App Watch Movie Frontend
 4. App Watch Movie Backend
-5. App Rumah Laundry
-6. App Surat Masuk & Keluar (Simpati 223 PHP Version & Java Version)
+5. App Home Laundry
+6. App Incoming & Outcoming Mail (Simpati 223 PHP Version & Java Version)
 7. App Inventaris SF
    
 Private
-1. Safezone
+1. App Digitalitation Housing Complex Security Guest Book (Safezone)
