@@ -13,13 +13,13 @@ Work Experience :
 Portofolio (Publish & Private) :
 
 Public
-1. Payment SPP SMK 
-2. Landing Page Pillow Shop
-3. App Watch Movie Frontend
-4. App Watch Movie Backend
-5. App Home Laundry
-6. App Incoming & Outcoming Mail (Simpati 223 PHP Version & Java Version)
-7. App Inventaris SF
+1. Landing Page Pillow Shop 
+2. App Watch Movie Frontend
+3. App Watch Movie Backend
+4. App Home Laundry
+5. App Inventaris SF
    
 Private
-1. App Digitalitation Housing Complex Security Guest Book (Safezone)
+1. Payment SPP SMK
+2. App Digitalitation Housing Complex Security Guest Book (Safezone)
+3. App Incoming & Outcoming Mail (Simpati 223 PHP Version & Java Version)
