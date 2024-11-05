@@ -6,9 +6,8 @@ This is a special page about my bio
      Skills : HTML, CSS, JS, PHP, Codeigniter, Laravel, Django, Java Ant, Vue JS, Nest JS
 
 Work Experience :
-1. PT Podobeli Djital Indonesia as Backend Developer April 2019 - June 2020
-2. PT Khatulistiwa Mandala as FullStack PHP Developer July 2020 - June 2022
-3. PT Anarya Teknologi Indonesia as Software Engineer August 2022 - January 2024
+1. PT Khatulistiwa Mandala as PHP Programmer April 2019 - June 2022
+2. PT Anarya Teknologi Indonesia as Software Engineer August 2022 - January 2024
 
 Portofolio (Publish & Private) :
 
